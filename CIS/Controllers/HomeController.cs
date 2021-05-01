@@ -15,7 +15,7 @@ namespace CIS.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Action About";
 
             return View();
         }
